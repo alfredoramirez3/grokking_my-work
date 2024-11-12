@@ -1,2 +1,2 @@
 # grokking_my-work
-grokking machine learning by Luis Serrano
+Grokking Machine Learning by Luis Serrano
